@@ -1,24 +1,5 @@
-# vue-project
+# micro-qiankun-app-vue3
 
-## Project setup
-```
-npm install
-```
+一个基于 `qiankun` 的 `vue3` 子应用演示，完整内容查看微前端主仓库：https://github.com/cgfeel/zf-micro-app
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`qiankun` 总结见基座主应用：https://github.com/cgfeel/micro-qiankun-substrate
